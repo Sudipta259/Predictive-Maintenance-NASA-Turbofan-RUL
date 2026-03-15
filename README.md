@@ -16,7 +16,7 @@ The project demonstrates a full end-to-end data pipeline:
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.10
-* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
+* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib,MYSQL
 * **Visualization:** Power BI Desktop
 * **Environment:** Jupyter Notebook
 
